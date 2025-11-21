@@ -13,8 +13,6 @@ class Pattern
                 System.out.print("$\t");
             }
             System.out.println();
-
-
         }
        
     }
